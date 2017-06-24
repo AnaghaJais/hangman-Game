@@ -1,0 +1,33 @@
+body{	
+        color: #ffffff;
+        background-color: black;
+    }
+  *{
+  	box-sizing: border-box;
+  }      
+.heading{
+	font-family:'Arial',times,'Times New Roman',serif ;
+	font-weight:800 ;
+	font-size:40px;
+	color:red;
+
+}
+.game{
+	
+	color:red;
+	font-style: 400;
+	font-size: 20px;
+}
+
+
+}
+#current{
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 16px;
+	color: white;}
+
+.jumbotron{
+	background-color: black;
+	color:red;
+}
